@@ -1,4 +1,8 @@
-### Olá! Eu sou a Isa 
+<div align="center">
+   <h1>Olá, Eu sou a Isa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+  
+</div>
 
 Tenho 25 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia pela Universidade Federal de Itajubá e foi lá que me apaixonei por programação. Atualmente sou estudando da Trybe, tendo concluido o módulo de Front-end e cursando Back-end
 
@@ -40,3 +44,7 @@ Tenho 25 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia p
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacost&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacost&theme=dracula"/>
 </div>
+  
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
