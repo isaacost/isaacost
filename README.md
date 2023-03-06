@@ -7,7 +7,7 @@
 Tenho 25 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia pela Universidade Federal de Itajubá e foi lá que me apaixonei por programação. Atualmente sou estudando da Trybe, tendo concluido o módulo de Front-end e cursando Back-end
 
 ## Tecnologias
-<p align='left'>
+<p align='center'>
   <img src="https://img.shields.io/badge/HTML5-0b6b81?style=for-the-badge&logo=html5&logoColor=white" />
   
   <img src="https://img.shields.io/badge/CSS3-0b6b81?style=for-the-badge&logo=css3&logoColor=white" />
