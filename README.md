@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Isa 
 
-Tenho 23 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia pela Universidade Federal de Itajubá e foi lá que me apaixonei por programação. Atualmente sou estudando da Trybe, tendo concluido o módulo de Front-end e cursando Back-end
+Tenho 25 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia pela Universidade Federal de Itajubá e foi lá que me apaixonei por programação. Atualmente sou estudando da Trybe, tendo concluido o módulo de Front-end e cursando Back-end
 
 ## Tecnologias
 <p align='left'>
