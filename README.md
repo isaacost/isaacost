@@ -38,5 +38,5 @@ Tenho 25 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia p
 <div align="center">
   <a href="https://github.com/isaacost/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacost&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacost&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacost&theme=dracula"/>
 </div>
