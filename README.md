@@ -26,7 +26,7 @@ Tenho 25 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia p
   
   <img src="https://img.shields.io/badge/Git-0b6b81?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-0b6b81?style=for-the-badge&logo=linux&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MongoDB-0b6b81?style=for-the-badge&logo=mongodb&logoColor=black&colorA=pink&colorB=pink" />
+  <img src="https://img.shields.io/badge/MongoDB-0b6b81?style=for-the-badge&logo=mongodb&logoColor=black&colorA=ff69b4&colorB=pink" />
 </p>
 
 ## Idiomas
