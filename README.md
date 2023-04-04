@@ -1,10 +1,17 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+
 <div align="center">
    <h1>Olá, Eu sou a Isa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
   
 </div>
+<div>
+<img src="https://i.imgur.com/D6mbgxm.png" width='400px' align='right' alt="Computador iuriCode">
+</div>
 
-Tenho 25 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia pela Universidade Federal de Itajubá e foi lá que me apaixonei por programação. Atualmente sou estudando da Trybe, tendo concluido o módulo de Front-end e cursando Back-end
+<p align='left'>
+Tenho 25 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia pela Universidade Federal de Itajubá e foi lá que me apaixonei por programação. Atualmente sou estudando da Trybe, tendo concluido o módulo de Front-end e cursando Back-end.
+</p>
 
 ## Tecnologias
 <p align='center'>
@@ -40,8 +47,10 @@ Tenho 25 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia p
 - Espanhol (básico)
 
 ## Contato
-- Email: isa-hcosta@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/isa-hcosta/
+<p align='center'>
+<a href = "mailto:isa-hcosta@hotmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=black&colorA=ff69b4&colorB=pink" target="_blank"></a>
+<a href="https://www.linkedin.com/in/isa-hcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black&colorA=ff69b4&colorB=pink" style="border-radius: 30px" target="_blank"></a> 
+</p>
 
 <br>
 
@@ -51,6 +60,5 @@ Tenho 25 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia p
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacost&theme=dracula"/>
 </div>
   
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
