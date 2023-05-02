@@ -10,7 +10,7 @@
 </div>
 
 <p align='left'>
-Tenho 25 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia pela Universidade Federal de Itajubá e foi lá que me apaixonei por programação. Atualmente sou estudando da Trybe, tendo concluido o módulo de Front-end e cursando Back-end.
+Tenho 25 anos, sou nascida e criada em Minas Gerais. Me formei em Meteorologia pela Universidade Federal de Itajubá e foi lá que me apaixonei por programação. Atualmente sou estudando da Trybe, tendo concluido os módulos de Front-end e Back-end e estudando o módulo de Ciência da Computação, onde estou aprendendo Python.
 </p>
 
 ## Tecnologias
