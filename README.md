@@ -17,7 +17,7 @@ Tenho 28 anos, sou de Minas Gerais e sou formada em <strong>Ciências Atmosféri
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+### 🚀 Tecnologias & Ferramentas
 
 <p align="center">
 
@@ -44,13 +44,13 @@ Tenho 28 anos, sou de Minas Gerais e sou formada em <strong>Ciências Atmosféri
 
 ---
 
-## 🌎 Idiomas
+### 🌎 Idiomas
 - Inglês — intermediário  
 - Espanhol — avançado  
 
 ---
 
-## 📫 Contato
+### 📫 Contato
 
 <p align="center">
   <a href="mailto:isa-hcosta@hotmail.com">
